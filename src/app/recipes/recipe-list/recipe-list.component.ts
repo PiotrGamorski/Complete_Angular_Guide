@@ -16,7 +16,7 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'New test Recipe',
       'This is another test',
-      'http://localhost:4200/assets/images/recipe2.jpg'
+      'http://localhost:4200/assets/images/recipe.jpg'
     ),
   ];
 
